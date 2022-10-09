@@ -64,16 +64,21 @@ hr {
 .bottom-cloud {
     position: absolute;
     left: 180px;
-    bottom: 300px;
+    bottom: 215px;
+}
+
+.mountain-img {
+    max-width: 100%;
 }
 
 .profile {
     margin: 70px auto;
-    width: 30%;
+    width: 45%;
 }
 
 .profile-pic {
-    height: 200px;
+    max-height: 200px;
+    max-width: 100%;
 }
 
 .middle-container {
@@ -101,7 +106,7 @@ hr {
 
 .contact-message {
     margin: 40px auto;
-    width: 40%;
+    width: 45%;
 }
 
 .btn {
